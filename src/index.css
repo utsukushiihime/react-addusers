@@ -3,9 +3,11 @@
 }
 
 html {
+  background-color: #222;
   font-family: sans-serif;
 }
 
 body {
   margin: 0;
 }
+
